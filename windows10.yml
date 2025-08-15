@@ -7,8 +7,8 @@ services:
       USERNAME: "MASTER"
       PASSWORD: "admin@123"
       RAM_SIZE: "8G"
-      CPU_CORES: "8"
-      DISK_SIZE: "400G"
+      CPU_CORES: "6"
+      DISK_SIZE: "200G"
       DISK2_SIZE: "100G"
     devices:
       - /dev/kvm
